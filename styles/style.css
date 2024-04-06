@@ -1,10 +1,8 @@
 .header {
   display: grid;
-  /* grid-template-columns: repeat(5, 1fr);  */
-  place-items: center;
-  max-width: 1052px;
-  max-height: 105px;
-  margin: 92px 24px 96px;
+  grid-template-columns: 1.51fr 2fr 1.5fr;
+  align-items: center;
+  padding: 92px 51px 89px;
 }
 
 .header__menu {
