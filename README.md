@@ -1,1 +1,1 @@
-https://github.com/Festroud/ono_tebe_nado.git
+https://github.com/Festroud/ono-tebe-nado.git
