@@ -1,11 +1,11 @@
 .header {
-  max-width: 1052px;
-  max-height: 105px;
-  margin: 92px 24px 96px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr; 
   place-items: center;
-  }
+  max-width: 1052px;
+  max-height: 105px;
+  margin: 92px 24px 96px;
+}
 
 .header__menu {
   grid-column:1/3;
