@@ -96,7 +96,7 @@
   text-transform: uppercase;
 }
 
-.aligned-text { 
+.aligned-text {
   display: block;
   grid-column: 1/2;
   grid-row: 2/2;
@@ -345,10 +345,6 @@
 }
 
 .about__text__word-spacing_3 {
-  word-spacing: -1px;
-}
-
-.about__text__word-spacing_3 {
   word-spacing: -1.3px;
 }
 
@@ -373,7 +369,6 @@
   max-height: 98px;
   margin: 180px 50px 88px;
 }
-
 
 .footer__address {
   grid-column: 1/2;
@@ -409,7 +404,7 @@
   display: flex;
   justify-content: end;
   gap: 48px;
-  list-style-type: none; 
+  list-style-type: none;
 }
 
 .footer__social-icon {
