@@ -1,1 +1,1 @@
-https://github.com/Festroud/ono_tebe_nado.git
+[ссылка на мой проект на github](https://github.com/Festroud/ono_tebe_nado.git)
