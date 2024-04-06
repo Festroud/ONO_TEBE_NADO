@@ -24,13 +24,13 @@
   letter-spacing: 0.18px;
 }
 
+.header__menu-link-active {
+  text-decoration: none;
+}
+
 .header__links-list-item:first-child {
   padding-left: 23px;
   list-style-type: none;
-}
-
-.header__menu-link-active {
-  text-decoration: none;
 }
 
 .header__logo-image {
