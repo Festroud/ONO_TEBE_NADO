@@ -330,9 +330,7 @@
   letter-spacing: 0.20px;
   word-wrap: break-word;
   padding-left: 23px;
-}
-
-.about__text p:first-child {
+} .about__text p:first-child {
   margin-bottom: 23px;
 }
 
